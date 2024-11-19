@@ -1,0 +1,2272 @@
+- center:
+  - 391.8203883495145
+  - 139.5825242718446
+  depth: 8.7
+  fps: 55
+  frame_index: 14
+  frame_shape: &id001
+  - 426
+  - 802
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 390.3928802588996
+  - 139.4527508090614
+  depth: 8.7
+  fps: 55
+  frame_index: 15
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.9653721682847
+  - 139.3229773462782
+  depth: 8.7
+  fps: 55
+  frame_index: 16
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.53786407766984
+  - 139.19320388349502
+  depth: 8.7
+  fps: 55
+  frame_index: 17
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.11035598705496
+  - 139.06343042071194
+  depth: 8.7
+  fps: 55
+  frame_index: 18
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.6828478964401
+  - 138.93365695792875
+  depth: 8.7
+  fps: 55
+  frame_index: 19
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.2553398058252
+  - 138.80388349514556
+  depth: 8.7
+  fps: 55
+  frame_index: 20
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.32833737864075
+  - 139.0228762135922
+  depth: 8.7
+  fps: 55
+  frame_index: 21
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.4013349514563
+  - 139.24186893203876
+  depth: 8.7
+  fps: 55
+  frame_index: 22
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.47433252427174
+  - 139.4608616504854
+  depth: 8.7
+  fps: 55
+  frame_index: 23
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.5473300970873
+  - 139.67985436893196
+  depth: 8.7
+  fps: 55
+  frame_index: 24
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.62032766990285
+  - 139.8988470873786
+  depth: 8.7
+  fps: 55
+  frame_index: 25
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.6933252427184
+  - 140.11783980582516
+  depth: 8.7
+  fps: 55
+  frame_index: 26
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.76632281553395
+  - 140.3368325242718
+  depth: 8.7
+  fps: 55
+  frame_index: 27
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.8393203883495
+  - 140.55582524271836
+  depth: 8.7
+  fps: 55
+  frame_index: 28
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.91231796116494
+  - 140.774817961165
+  depth: 8.7
+  fps: 55
+  frame_index: 29
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.9853155339805
+  - 140.99381067961167
+  depth: 8.7
+  fps: 55
+  frame_index: 30
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.05831310679605
+  - 141.2128033980582
+  depth: 8.7
+  fps: 55
+  frame_index: 31
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.1313106796116
+  - 141.43179611650487
+  depth: 8.7
+  fps: 55
+  frame_index: 32
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.20430825242715
+  - 141.6507888349514
+  depth: 8.7
+  fps: 55
+  frame_index: 33
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.2773058252426
+  - 141.86978155339807
+  depth: 8.7
+  fps: 55
+  frame_index: 34
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.35030339805814
+  - 142.0887742718446
+  depth: 8.7
+  fps: 55
+  frame_index: 35
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.4233009708737
+  - 142.30776699029127
+  depth: 8.7
+  fps: 55
+  frame_index: 36
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.140470107307
+  - 142.7790495656617
+  depth: 8.7
+  fps: 55
+  frame_index: 37
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.8576392437403
+  - 143.25033214103223
+  depth: 8.7
+  fps: 55
+  frame_index: 38
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.57480838017364
+  - 143.72161471640266
+  depth: 8.7
+  fps: 55
+  frame_index: 39
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.29197751660695
+  - 144.19289729177308
+  depth: 8.7
+  fps: 55
+  frame_index: 40
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.00914665304026
+  - 144.66417986714362
+  depth: 8.7
+  fps: 55
+  frame_index: 41
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.7263157894736
+  - 145.13546244251404
+  depth: 8.7
+  fps: 55
+  frame_index: 42
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 389.4434849259069
+  - 145.60674501788446
+  depth: 8.7
+  fps: 55
+  frame_index: 43
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 390.1606540623402
+  - 146.078027593255
+  depth: 8.7
+  fps: 55
+  frame_index: 44
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 390.8778231987735
+  - 146.54931016862542
+  depth: 8.7
+  fps: 55
+  frame_index: 45
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 391.59499233520694
+  - 147.02059274399585
+  depth: 8.7
+  fps: 55
+  frame_index: 46
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 392.31216147164025
+  - 147.49187531936627
+  depth: 8.7
+  fps: 55
+  frame_index: 47
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.02933060807356
+  - 147.9631578947368
+  depth: 8.7
+  fps: 55
+  frame_index: 48
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.7464997445069
+  - 148.43444047010723
+  depth: 8.7
+  fps: 55
+  frame_index: 49
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 394.4636688809402
+  - 148.90572304547766
+  depth: 8.7
+  fps: 55
+  frame_index: 50
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 395.1808380173735
+  - 149.3770056208482
+  depth: 8.7
+  fps: 55
+  frame_index: 51
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 395.8980071538068
+  - 149.84828819621862
+  depth: 8.7
+  fps: 55
+  frame_index: 52
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 396.61517629024013
+  - 150.31957077158904
+  depth: 8.7
+  fps: 55
+  frame_index: 53
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 397.33234542667344
+  - 150.79085334695958
+  depth: 8.7
+  fps: 55
+  frame_index: 54
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.04951456310675
+  - 151.26213592233
+  depth: 8.7
+  fps: 55
+  frame_index: 55
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.0689805825242
+  - 151.4762621359223
+  depth: 8.7
+  fps: 55
+  frame_index: 56
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.08844660194165
+  - 151.69038834951448
+  depth: 8.7
+  fps: 55
+  frame_index: 57
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.1079126213592
+  - 151.90451456310666
+  depth: 8.7
+  fps: 55
+  frame_index: 58
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.12737864077667
+  - 152.11864077669895
+  depth: 8.7
+  fps: 55
+  frame_index: 59
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.1468446601941
+  - 152.33276699029125
+  depth: 8.7
+  fps: 55
+  frame_index: 60
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.16631067961157
+  - 152.54689320388343
+  depth: 8.7
+  fps: 55
+  frame_index: 61
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.185776699029
+  - 152.7610194174756
+  depth: 8.7
+  fps: 55
+  frame_index: 62
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.2052427184466
+  - 152.9751456310679
+  depth: 8.7
+  fps: 55
+  frame_index: 63
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.22470873786403
+  - 153.1892718446602
+  depth: 8.7
+  fps: 55
+  frame_index: 64
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.2441747572815
+  - 153.40339805825238
+  depth: 8.7
+  fps: 55
+  frame_index: 65
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.26364077669894
+  - 153.61752427184456
+  depth: 8.7
+  fps: 55
+  frame_index: 66
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.2831067961164
+  - 153.83165048543685
+  depth: 8.7
+  fps: 55
+  frame_index: 67
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.30257281553395
+  - 154.04577669902915
+  depth: 8.7
+  fps: 55
+  frame_index: 68
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.3220388349514
+  - 154.25990291262133
+  depth: 8.7
+  fps: 55
+  frame_index: 69
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.34150485436885
+  - 154.4740291262135
+  depth: 8.7
+  fps: 55
+  frame_index: 70
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.3609708737863
+  - 154.6881553398058
+  depth: 8.7
+  fps: 55
+  frame_index: 71
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.38043689320375
+  - 154.9022815533981
+  depth: 8.7
+  fps: 55
+  frame_index: 72
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.3999029126213
+  - 155.11640776699028
+  depth: 8.7
+  fps: 55
+  frame_index: 73
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.41936893203876
+  - 155.33053398058246
+  depth: 8.7
+  fps: 55
+  frame_index: 74
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.4388349514562
+  - 155.54466019417475
+  depth: 8.7
+  fps: 55
+  frame_index: 75
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.78644244105396
+  - 155.61418169209435
+  depth: 8.7
+  fps: 55
+  frame_index: 76
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 399.1340499306518
+  - 155.68370319001383
+  depth: 8.7
+  fps: 55
+  frame_index: 77
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 399.4816574202496
+  - 155.75322468793343
+  depth: 8.7
+  fps: 55
+  frame_index: 78
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 399.8292649098473
+  - 155.82274618585302
+  depth: 8.7
+  fps: 55
+  frame_index: 79
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 400.1768723994451
+  - 155.8922676837725
+  depth: 8.7
+  fps: 55
+  frame_index: 80
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 400.52447988904294
+  - 155.9617891816921
+  depth: 8.7
+  fps: 55
+  frame_index: 81
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 400.8720873786407
+  - 156.03131067961158
+  depth: 8.7
+  fps: 55
+  frame_index: 82
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 401.21969486823843
+  - 156.10083217753117
+  depth: 8.7
+  fps: 55
+  frame_index: 83
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 401.5673023578363
+  - 156.17035367545077
+  depth: 8.7
+  fps: 55
+  frame_index: 84
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 401.91490984743405
+  - 156.23987517337025
+  depth: 8.7
+  fps: 55
+  frame_index: 85
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 402.2625173370318
+  - 156.30939667128985
+  depth: 8.7
+  fps: 55
+  frame_index: 86
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 402.61012482662954
+  - 156.37891816920944
+  depth: 8.7
+  fps: 55
+  frame_index: 87
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 402.9577323162274
+  - 156.44843966712892
+  depth: 8.7
+  fps: 55
+  frame_index: 88
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 403.30533980582516
+  - 156.51796116504852
+  depth: 8.7
+  fps: 55
+  frame_index: 89
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 403.6529472954229
+  - 156.5874826629681
+  depth: 8.7
+  fps: 55
+  frame_index: 90
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 404.00055478502077
+  - 156.6570041608876
+  depth: 8.7
+  fps: 55
+  frame_index: 91
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 404.3481622746185
+  - 156.7265256588072
+  depth: 8.7
+  fps: 55
+  frame_index: 92
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 404.69576976421627
+  - 156.7960471567268
+  depth: 8.7
+  fps: 55
+  frame_index: 93
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 405.043377253814
+  - 156.86556865464627
+  depth: 8.7
+  fps: 55
+  frame_index: 94
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 405.3909847434119
+  - 156.93509015256586
+  depth: 8.7
+  fps: 55
+  frame_index: 95
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 405.7385922330096
+  - 157.00461165048546
+  depth: 8.7
+  fps: 55
+  frame_index: 96
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 406.0861997226074
+  - 157.07413314840494
+  depth: 8.7
+  fps: 55
+  frame_index: 97
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 406.43380721220524
+  - 157.14365464632453
+  depth: 8.7
+  fps: 55
+  frame_index: 98
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 406.781414701803
+  - 157.21317614424402
+  depth: 8.7
+  fps: 55
+  frame_index: 99
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 407.12902219140074
+  - 157.2826976421636
+  depth: 8.7
+  fps: 55
+  frame_index: 100
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 407.4766296809985
+  - 157.3522191400832
+  depth: 8.7
+  fps: 55
+  frame_index: 101
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 407.82423717059635
+  - 157.4217406380027
+  depth: 8.7
+  fps: 55
+  frame_index: 102
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 408.1718446601941
+  - 157.49126213592228
+  depth: 8.7
+  fps: 55
+  frame_index: 103
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 407.75471567267675
+  - 157.6024965325936
+  depth: 8.7
+  fps: 55
+  frame_index: 104
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 407.3375866851594
+  - 157.7137309292649
+  depth: 8.7
+  fps: 55
+  frame_index: 105
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 406.92045769764206
+  - 157.8249653259362
+  depth: 8.7
+  fps: 55
+  frame_index: 106
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 406.5033287101247
+  - 157.9361997226074
+  depth: 8.7
+  fps: 55
+  frame_index: 107
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 406.0861997226074
+  - 158.0474341192787
+  depth: 8.7
+  fps: 55
+  frame_index: 108
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 405.66907073509003
+  - 158.15866851595
+  depth: 8.7
+  fps: 55
+  frame_index: 109
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 405.2519417475728
+  - 158.26990291262132
+  depth: 8.7
+  fps: 55
+  frame_index: 110
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 404.83481276005546
+  - 158.38113730929263
+  depth: 8.7
+  fps: 55
+  frame_index: 111
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 404.4176837725381
+  - 158.49237170596393
+  depth: 8.7
+  fps: 55
+  frame_index: 112
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 404.00055478502077
+  - 158.60360610263524
+  depth: 8.7
+  fps: 55
+  frame_index: 113
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 403.5834257975034
+  - 158.71484049930643
+  depth: 8.7
+  fps: 55
+  frame_index: 114
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 403.1662968099861
+  - 158.82607489597774
+  depth: 8.7
+  fps: 55
+  frame_index: 115
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 402.74916782246873
+  - 158.93730929264905
+  depth: 8.7
+  fps: 55
+  frame_index: 116
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 402.3320388349514
+  - 159.04854368932035
+  depth: 8.7
+  fps: 55
+  frame_index: 117
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 401.4050855293573
+  - 158.69630143319455
+  depth: 8.7
+  fps: 55
+  frame_index: 118
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 400.4781322237633
+  - 158.34405917706886
+  depth: 8.7
+  fps: 55
+  frame_index: 119
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 399.55117891816917
+  - 157.99181692094305
+  depth: 8.7
+  fps: 55
+  frame_index: 120
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 398.62422561257506
+  - 157.63957466481736
+  depth: 8.7
+  fps: 55
+  frame_index: 121
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 397.69727230698095
+  - 157.28733240869155
+  depth: 8.7
+  fps: 55
+  frame_index: 122
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 396.77031900138695
+  - 156.93509015256586
+  depth: 8.7
+  fps: 55
+  frame_index: 123
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 395.84336569579284
+  - 156.58284789644006
+  depth: 8.7
+  fps: 55
+  frame_index: 124
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 394.91641239019873
+  - 156.23060564031437
+  depth: 8.7
+  fps: 55
+  frame_index: 125
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.98945908460473
+  - 155.87836338418856
+  depth: 8.7
+  fps: 55
+  frame_index: 126
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.0625057790106
+  - 155.52612112806287
+  depth: 8.7
+  fps: 55
+  frame_index: 127
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 392.1355524734165
+  - 155.17387887193706
+  depth: 8.7
+  fps: 55
+  frame_index: 128
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 391.2085991678224
+  - 154.82163661581137
+  depth: 8.7
+  fps: 55
+  frame_index: 129
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 390.2816458622284
+  - 154.46939435968557
+  depth: 8.7
+  fps: 55
+  frame_index: 130
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 389.3546925566343
+  - 154.11715210355987
+  depth: 8.7
+  fps: 55
+  frame_index: 131
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.4277392510402
+  - 153.76490984743407
+  depth: 8.7
+  fps: 55
+  frame_index: 132
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.5007859454462
+  - 153.41266759130838
+  depth: 8.7
+  fps: 55
+  frame_index: 133
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.57383263985207
+  - 153.06042533518257
+  depth: 8.7
+  fps: 55
+  frame_index: 134
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.64687933425796
+  - 152.70818307905688
+  depth: 8.7
+  fps: 55
+  frame_index: 135
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.71992602866385
+  - 152.35594082293107
+  depth: 8.7
+  fps: 55
+  frame_index: 136
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.79297272306985
+  - 152.00369856680538
+  depth: 8.7
+  fps: 55
+  frame_index: 137
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 382.86601941747574
+  - 151.65145631067958
+  depth: 8.7
+  fps: 55
+  frame_index: 138
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 382.67982271000426
+  - 151.93921485859005
+  depth: 8.7
+  fps: 55
+  frame_index: 139
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 382.49362600253266
+  - 152.22697340650063
+  depth: 8.7
+  fps: 55
+  frame_index: 140
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 382.3074292950612
+  - 152.5147319544111
+  depth: 8.7
+  fps: 55
+  frame_index: 141
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 382.1212325875897
+  - 152.80249050232158
+  depth: 8.7
+  fps: 55
+  frame_index: 142
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 381.9350358801182
+  - 153.09024905023216
+  depth: 8.7
+  fps: 55
+  frame_index: 143
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 381.7488391726466
+  - 153.37800759814263
+  depth: 8.7
+  fps: 55
+  frame_index: 144
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 381.56264246517514
+  - 153.6657661460531
+  depth: 8.7
+  fps: 55
+  frame_index: 145
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 381.37644575770366
+  - 153.9535246939637
+  depth: 8.7
+  fps: 55
+  frame_index: 146
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 381.1902490502322
+  - 154.24128324187416
+  depth: 8.7
+  fps: 55
+  frame_index: 147
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 381.0040523427606
+  - 154.52904178978463
+  depth: 8.7
+  fps: 55
+  frame_index: 148
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 380.8178556352891
+  - 154.8168003376952
+  depth: 8.7
+  fps: 55
+  frame_index: 149
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 380.6316589278176
+  - 155.10455888560568
+  depth: 8.7
+  fps: 55
+  frame_index: 150
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 380.44546222034614
+  - 155.39231743351627
+  depth: 8.7
+  fps: 55
+  frame_index: 151
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 380.25926551287455
+  - 155.68007598142674
+  depth: 8.7
+  fps: 55
+  frame_index: 152
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 380.07306880540307
+  - 155.9678345293372
+  depth: 8.7
+  fps: 55
+  frame_index: 153
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 379.8868720979316
+  - 156.2555930772478
+  depth: 8.7
+  fps: 55
+  frame_index: 154
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 379.7006753904601
+  - 156.54335162515827
+  depth: 8.7
+  fps: 55
+  frame_index: 155
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 379.5144786829885
+  - 156.83111017306874
+  depth: 8.7
+  fps: 55
+  frame_index: 156
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 379.32828197551703
+  - 157.11886872097932
+  depth: 8.7
+  fps: 55
+  frame_index: 157
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 379.14208526804555
+  - 157.4066272688898
+  depth: 8.7
+  fps: 55
+  frame_index: 158
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 378.95588856057407
+  - 157.69438581680026
+  depth: 8.7
+  fps: 55
+  frame_index: 159
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 378.7696918531025
+  - 157.98214436471085
+  depth: 8.7
+  fps: 55
+  frame_index: 160
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 378.583495145631
+  - 158.26990291262132
+  depth: 8.7
+  fps: 55
+  frame_index: 161
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 379.16076330766646
+  - 158.32360227653157
+  depth: 8.7
+  fps: 55
+  frame_index: 162
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 379.7380314697019
+  - 158.37730164044183
+  depth: 8.7
+  fps: 55
+  frame_index: 163
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 380.3152996317375
+  - 158.4310010043522
+  depth: 8.7
+  fps: 55
+  frame_index: 164
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 380.89256779377297
+  - 158.48470036826245
+  depth: 8.7
+  fps: 55
+  frame_index: 165
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 381.46983595580843
+  - 158.5383997321727
+  depth: 8.7
+  fps: 55
+  frame_index: 166
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 382.0471041178439
+  - 158.59209909608296
+  depth: 8.7
+  fps: 55
+  frame_index: 167
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 382.62437227987937
+  - 158.64579845999322
+  depth: 8.7
+  fps: 55
+  frame_index: 168
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.20164044191495
+  - 158.69949782390358
+  depth: 8.7
+  fps: 55
+  frame_index: 169
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 383.7789086039504
+  - 158.75319718781384
+  depth: 8.7
+  fps: 55
+  frame_index: 170
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.3561767659859
+  - 158.8068965517241
+  depth: 8.7
+  fps: 55
+  frame_index: 171
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.93344492802134
+  - 158.86059591563435
+  depth: 8.7
+  fps: 55
+  frame_index: 172
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.5107130900568
+  - 158.9142952795446
+  depth: 8.7
+  fps: 55
+  frame_index: 173
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.0879812520924
+  - 158.96799464345497
+  depth: 8.7
+  fps: 55
+  frame_index: 174
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.66524941412786
+  - 159.02169400736523
+  depth: 8.7
+  fps: 55
+  frame_index: 175
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.2425175761633
+  - 159.07539337127548
+  depth: 8.7
+  fps: 55
+  frame_index: 176
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.8197857381988
+  - 159.12909273518574
+  depth: 8.7
+  fps: 55
+  frame_index: 177
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.39705390023437
+  - 159.1827920990961
+  depth: 8.7
+  fps: 55
+  frame_index: 178
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.97432206226983
+  - 159.23649146300636
+  depth: 8.7
+  fps: 55
+  frame_index: 179
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 389.5515902243053
+  - 159.29019082691661
+  depth: 8.7
+  fps: 55
+  frame_index: 180
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 390.12885838634077
+  - 159.34389019082687
+  depth: 8.7
+  fps: 55
+  frame_index: 181
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 390.70612654837623
+  - 159.39758955473712
+  depth: 8.7
+  fps: 55
+  frame_index: 182
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 391.2833947104118
+  - 159.4512889186475
+  depth: 8.7
+  fps: 55
+  frame_index: 183
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 391.8606628724473
+  - 159.50498828255775
+  depth: 8.7
+  fps: 55
+  frame_index: 184
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 392.43793103448274
+  - 159.558687646468
+  depth: 8.7
+  fps: 55
+  frame_index: 185
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.0151991965182
+  - 159.61238701037826
+  depth: 8.7
+  fps: 55
+  frame_index: 186
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.5924673585537
+  - 159.6660863742885
+  depth: 8.7
+  fps: 55
+  frame_index: 187
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 394.16973552058926
+  - 159.71978573819888
+  depth: 8.7
+  fps: 55
+  frame_index: 188
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 394.7470036826247
+  - 159.77348510210913
+  depth: 8.7
+  fps: 55
+  frame_index: 189
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 395.3242718446602
+  - 159.8271844660194
+  depth: 8.7
+  fps: 55
+  frame_index: 190
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 395.05474234503356
+  - 160.09671396564602
+  depth: 8.7
+  fps: 55
+  frame_index: 191
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 394.78521284540705
+  - 160.36624346527253
+  depth: 8.7
+  fps: 55
+  frame_index: 192
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 394.5156833457804
+  - 160.63577296489916
+  depth: 8.7
+  fps: 55
+  frame_index: 193
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 394.2461538461538
+  - 160.90530246452568
+  depth: 8.7
+  fps: 55
+  frame_index: 194
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.9766243465273
+  - 161.1748319641523
+  depth: 8.7
+  fps: 55
+  frame_index: 195
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.70709484690065
+  - 161.44436146377893
+  depth: 8.7
+  fps: 55
+  frame_index: 196
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.437565347274
+  - 161.71389096340545
+  depth: 8.7
+  fps: 55
+  frame_index: 197
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 393.1680358476475
+  - 161.98342046303208
+  depth: 8.7
+  fps: 55
+  frame_index: 198
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 392.8985063480209
+  - 162.2529499626587
+  depth: 8.7
+  fps: 55
+  frame_index: 199
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 392.62897684839425
+  - 162.52247946228522
+  depth: 8.7
+  fps: 55
+  frame_index: 200
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 392.35944734876773
+  - 162.79200896191185
+  depth: 8.7
+  fps: 55
+  frame_index: 201
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 392.0899178491411
+  - 163.06153846153836
+  depth: 8.7
+  fps: 55
+  frame_index: 202
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 391.8203883495146
+  - 163.331067961165
+  depth: 8.7
+  fps: 55
+  frame_index: 203
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 391.55085884988796
+  - 163.60059746079162
+  depth: 8.7
+  fps: 55
+  frame_index: 204
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 391.28132935026133
+  - 163.87012696041813
+  depth: 8.7
+  fps: 55
+  frame_index: 205
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 391.0117998506348
+  - 164.13965646004476
+  depth: 8.7
+  fps: 55
+  frame_index: 206
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 390.7422703510082
+  - 164.40918595967128
+  depth: 8.7
+  fps: 55
+  frame_index: 207
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 390.47274085138156
+  - 164.6787154592979
+  depth: 8.7
+  fps: 55
+  frame_index: 208
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 390.20321135175504
+  - 164.94824495892453
+  depth: 8.7
+  fps: 55
+  frame_index: 209
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 389.9336818521284
+  - 165.21777445855105
+  depth: 8.7
+  fps: 55
+  frame_index: 210
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 389.6641523525018
+  - 165.48730395817768
+  depth: 8.7
+  fps: 55
+  frame_index: 211
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 389.3946228528753
+  - 165.7568334578043
+  depth: 8.7
+  fps: 55
+  frame_index: 212
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 389.12509335324864
+  - 166.02636295743082
+  depth: 8.7
+  fps: 55
+  frame_index: 213
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.855563853622
+  - 166.29589245705745
+  depth: 8.7
+  fps: 55
+  frame_index: 214
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.5860343539955
+  - 166.56542195668396
+  depth: 8.7
+  fps: 55
+  frame_index: 215
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.3165048543689
+  - 166.8349514563106
+  depth: 8.7
+  fps: 55
+  frame_index: 216
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.1641620937104
+  - 166.97036724356258
+  depth: 8.7
+  fps: 55
+  frame_index: 217
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.0118193330519
+  - 167.10578303081456
+  depth: 8.7
+  fps: 55
+  frame_index: 218
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.8594765723933
+  - 167.24119881806666
+  depth: 8.7
+  fps: 55
+  frame_index: 219
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.7071338117348
+  - 167.37661460531865
+  depth: 8.7
+  fps: 55
+  frame_index: 220
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.55479105107634
+  - 167.51203039257064
+  depth: 8.7
+  fps: 55
+  frame_index: 221
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.40244829041785
+  - 167.64744617982262
+  depth: 8.7
+  fps: 55
+  frame_index: 222
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.25010552975937
+  - 167.7828619670746
+  depth: 8.7
+  fps: 55
+  frame_index: 223
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 387.0977627691009
+  - 167.9182777543266
+  depth: 8.7
+  fps: 55
+  frame_index: 224
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.9454200084423
+  - 168.0536935415787
+  depth: 8.7
+  fps: 55
+  frame_index: 225
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.7930772477838
+  - 168.18910932883068
+  depth: 8.7
+  fps: 55
+  frame_index: 226
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.6407344871253
+  - 168.32452511608267
+  depth: 8.7
+  fps: 55
+  frame_index: 227
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.48839172646683
+  - 168.45994090333465
+  depth: 8.7
+  fps: 55
+  frame_index: 228
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.33604896580835
+  - 168.59535669058664
+  depth: 8.7
+  fps: 55
+  frame_index: 229
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.18370620514986
+  - 168.73077247783863
+  depth: 8.7
+  fps: 55
+  frame_index: 230
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 386.03136344449126
+  - 168.86618826509073
+  depth: 8.7
+  fps: 55
+  frame_index: 231
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.8790206838328
+  - 169.0016040523427
+  depth: 8.7
+  fps: 55
+  frame_index: 232
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.7266779231743
+  - 169.1370198395947
+  depth: 8.7
+  fps: 55
+  frame_index: 233
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.5743351625158
+  - 169.2724356268467
+  depth: 8.7
+  fps: 55
+  frame_index: 234
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.4219924018573
+  - 169.40785141409867
+  depth: 8.7
+  fps: 55
+  frame_index: 235
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.26964964119884
+  - 169.54326720135066
+  depth: 8.7
+  fps: 55
+  frame_index: 236
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 385.11730688054024
+  - 169.67868298860276
+  depth: 8.7
+  fps: 55
+  frame_index: 237
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.96496411988176
+  - 169.81409877585475
+  depth: 8.7
+  fps: 55
+  frame_index: 238
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 384.8126213592233
+  - 169.94951456310673
+  depth: 8.7
+  fps: 55
+  frame_index: 239
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 1
+- center:
+  - 388.3165048543689
+  - 169.1708737864077
+  depth: 8.7
+  fps: 55
+  frame_index: 240
+  frame_shape: *id001
+  radius: 100
+  timestamp: 1729788493.641471
+  type: 2

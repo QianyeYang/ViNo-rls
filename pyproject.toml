@@ -1,0 +1,43 @@
+[project]
+name = "vino"
+version = "0.1.0"
+description = "Video Annotation Tool"
+readme = "README.md"
+license = { file = "LICENSE" }  # Specify your license here
+requires-python = "<3.10"
+authors = [
+    { name = "Qianye Yang", email = "qianye.yang@eng.ox.ac.uk" },
+]
+dependencies = [
+    "icecream==2.1.3",
+    "pandas==2.1.3",
+    "numpy==1.26.2",
+    "matplotlib==3.7.1",
+    "PySide6==6.3.1",
+    "loguru==0.7.2",
+    "shapely==2.0.2",
+    "opencv-python",
+    "ipython",
+    "datetime",
+    "tqdm",
+    "pyyaml",
+    "openpyxl",
+]
+
+[tool.setuptools.packages.find]
+include = ["vino"]
+exclude = ["contrib", "docs", "test", "Tools"]
+
+[build-system]
+requires = ["setuptools>=64.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+homepage = "https://github.com/QianyeYang/ViNo"
+bug-reports = "https://github.com/QianyeYang/ViNo/issues"
+source = "https://github.com/QianyeYang/ViNo/issues"
+
+[project.scripts]
+vino-start = "vino.cli.startSoftware:main"
+vino-compileUI = "vino.cli.compileUI:main"
+vino-update = "vino.cli.updateSoftware:main"

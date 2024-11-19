@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="delete.png">./materials/icons/delete.png</file>
+        <file alias="end-box.png">./materials/icons/end-box.png</file>
+        <file alias="start-box.png">./materials/icons/start-box.png</file>
+        <file alias="interpolate.png">./materials/icons/interpolate.png</file>
+        <file alias="check.png">./materials/icons/icons8-check-80.png</file>
+        <file alias="error.png">./materials/icons/icons8-error-80.png</file>
+    </qresource>
+</RCC>
